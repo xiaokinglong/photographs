@@ -1,7 +1,7 @@
 ---
 theme: apple-basic
 layout: intro-image
-image: https://gitee.com/littlekinglong/my_images/raw/master/IMG_0675.JPG
+image: https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171437474.JPG
 class: "text-center"
 highlighter: shiki
 lineNumbers: true
@@ -19,9 +19,9 @@ drawings:
 
 ---
 layout: 3-images
-imageLeft: 'https://gitee.com/littlekinglong/my_images/raw/master/IMG_0675.JPG'
-imageTopRight: 'https://gitee.com/littlekinglong/my_images/raw/master/IMG_0675.JPG'
-imageBottomRight: 'https://gitee.com/littlekinglong/my_images/raw/master/IMG_0675.JPG'
+imageLeft: 'https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171437477.JPG'
+imageTopRight: 'https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171437476.JPG'
+imageBottomRight: 'https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171437474.JPG'
 ---
 
 
@@ -29,7 +29,19 @@ imageBottomRight: 'https://gitee.com/littlekinglong/my_images/raw/master/IMG_067
 
 ---
 layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
+image: https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171454346.jpg
+---
+## 介绍:
+
+---
+layout: image
+image: https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171452472.jpg
 ---
 
-## 时间: 2022
+
+---
+layout: 3-images
+imageLeft: 'https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171452466.jpg'
+imageTopRight: 'https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171452469.jpg'
+imageBottomRight: 'https://raw.githubusercontent.com/xiaokinglong/MyImages/main/202204171452470.jpg'
+---
